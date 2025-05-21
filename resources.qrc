@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/cave.PNG</file>
+        <file>images/dragon_down.PNG</file>
+        <file>images/dragon_middle.PNG</file>
+        <file>images/dragon_up.PNG</file>
+        <file>images/rock_bottom.PNG</file>
+        <file>images/rock_top.PNG</file>
+        <file>images/Intro.png</file>
+        <file>images/httyd_background_1.png</file>
+        <file>images/httyd_background_2.png</file>
+        <file>images/httyd_background_3.png</file>
+        <file>images/httyd_background_4.png</file>
+        <file>images/final_flight.mp3</file>
+    </qresource>
+</RCC>
